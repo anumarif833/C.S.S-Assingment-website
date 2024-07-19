@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(97, 189, 123);
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: #5208f0;
+
+}
+
+
+ header {
+margin-top: 30px;
+ }
+ h1 {
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+   font-size: 40px;
+   text-align: center;
+   text-transform: uppercase;
+   margin-bottom: 20px;
+
+ }
+ .content-block {
+    border: 2px solid #c47637;
+    margin: 40px;
+    padding: 15px;
+   }
+
+ .block-1 {
+    color:hsl(123, 78%, 51%);
+    font-size: 24px;
+    background-color: #0f95d3;
+    font-weight: bold;
+    font-family:system-ui, -apple-system;
+    box-shadow: 10px 10px 10px  black;
+    text-shadow: 10px 10px 10px red;
+    box-shadow: #190bdc;
+   
+
+ }
+ .block-2 {
+    color: rgb(230, 123, 186);
+    font-style: oblique;
+    background-color: #6d6b03;
+    font-family: italic;
+    font-size: 25px;
+    font-weight: bold;
+    display:inline block;
+    box-shadow: 10px 10px 10px  brown;
+    
+ }
+
+
+.block-3 {
+ 
+   color: #3713b7;
+    line-height:1.54;
+    font-size: 20PX; 
+    background-color: rgb(241, 81, 175);
+    text-decoration: underline;
+    font-family:  Arial, sans-serif;
+    display:  inline-block;
+    box-sizing: content-box;
+    box-shadow: 10px 10px 10px  rgb(33, 0, 80);
+   
+}
+
+
+
+
+
+
+

@@ -1,0 +1,448 @@
+.nav{
+    display: flex;
+    justify-content:left;
+    align-items: center;
+    background-color: rgb(248, 246, 242);
+    height: 200px;
+    width: 1280px;
+
+    
+
+    
+}
+.li{
+    list-style: none;
+     display: inline; 
+     flex-direction: row;
+     text-decoration: none;
+    font-size: 20px;
+     margin-left: 50px;     
+}
+.ul{
+     word-spacing: 1px;
+
+}
+.logo{
+    width: 150px;
+    height: 150px;
+    border-radius: 90px;
+     margin-left: 60px; 
+    
+    
+}
+.btn{
+    border:  solid rgb(191, 230, 238);
+    background-color: rgb(21, 184, 212);
+    width: 150px;
+    height: 50px;
+     margin-left: 50px; 
+    border-radius: 30px;
+    font-size: medium;
+    color: white; 
+}
+.btn:hover{
+    cursor: pointer;
+    background-color:white;
+    color: rgb(29, 179, 206);
+
+    
+}
+.icon{
+      margin-left: 50px; 
+     display: inline-block; 
+}
+.main{
+     height: auto; 
+    position: relative;
+
+}
+.p{
+    position: absolute;
+    width: 500px;
+    display: block;
+    margin-top: -600px;
+    font-size: 60px;
+    color:rgb(244, 242, 253);
+    margin-left: 100px;
+
+}
+.p2{
+    position: absolute;
+    width: 400px;
+    display: block;
+    margin-top: -400px;
+    font-size: 30px;
+    color:rgb(244, 242, 253);
+    margin-left: 100px;
+
+}
+.btn0{
+    position: absolute;
+    background-color: rgb(90, 189, 235);
+    border: solid rgb(147, 197, 229);
+    width: 200px;
+    height: 50px;
+    display: block;
+    border-radius: 50px;
+    margin-top: -200px;
+    font-size: 25px;
+    color:rgb(221, 235, 235);
+    margin-left: 100px;
+}
+.btn0:hover{
+    cursor: pointer;
+    background-color:white;
+    color: rgb(29, 179, 206);
+
+    
+}
+.main1{
+    display: flex;
+     justify-content: center;
+     text-align: center;
+     background-color: #dcebe9a8;  
+      width: 1280px; 
+    font-size: x-large;
+}
+
+.continer{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+     display: inline-block;
+     height: 200px;  
+    
+} 
+.img1{
+     margin-left: 90px;
+     margin-top: 10px;
+     border-radius: 10px;
+     margin-right: 50px;
+    
+ }
+
+.continer1{
+    display: flex;
+     justify-content: space-evenly; 
+    text-decoration: row;
+    margin-top: 10px;
+    margin-left: 50px;
+
+}
+.t3{
+    margin-left: 80px;
+}
+.continer2{
+     display: flex;
+     justify-content: center;
+     margin-top: 200px;
+     width: 1280px;  
+    height: 700px; 
+    background-color: rgb(57, 197, 216);
+}
+.boder{
+    width: 900px;
+    height: 500px;
+     margin-top: 100px; 
+     border-radius: 10px;
+    
+}
+.boder{
+    border: solid white;
+}
+.img{
+    margin-top: 50px;
+}
+.h2{
+    font-size: 40px;
+    color:white;  
+}
+.pera{
+    font-size: x-large;
+    color: white;
+}
+.btn1{
+    background-color: rgb(14, 171, 192);
+    border: solid white;
+    border-radius: 50px;
+    width: 200px;
+    height: 50px;
+    margin-left: -10px;
+    margin-top: 50px;
+    color: white;
+}
+.btn1:hover{
+    cursor:pointer;
+    background-color:rgb(234, 244, 247);
+    color: rgb(10, 119, 161);
+    
+    
+}
+.main1{
+     width: 1280px;
+    height: 900px; 
+    background-color: rgb(209, 221, 223);
+    display: block; 
+}
+.continer{
+   display: flex;  
+   flex-direction: row;
+    display: inline-block;
+   margin-top: 00px;
+    height: 200px;  
+}
+.img2{
+    margin-left: 0px;
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-right: 0px;
+   
+}
+.continer3{
+    display: flex; 
+    flex-direction: row;
+     display: inline-block;
+    margin-top: 10px;
+     height: 400px; 
+ }
+ .img3{
+    margin-left: 0px;
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-right: 0px;
+   
+}
+.cake{
+    margin-top: 10px;
+}
+.main2{
+    width: 1280px;
+    height: 900px;
+    background-color: burlywood;
+}
+.peramain{
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    height: 300px;
+    gap: 140px;
+    margin-left: 400px;
+    font-size: larger
+      
+}
+.ingredients{
+    border-radius: 50px;
+    margin-top: 10px;
+    
+}
+.h{
+    margin-top: 30px;
+}
+.main3{
+    display: flex;
+    justify-content: center;
+    width: 1280px;
+    height: 600px;
+    margin-top: 100px;
+    background-color: rgb(245, 102, 162);
+}
+.h4{
+    margin-top: 100px;
+    font-size: 50px; 
+    color: white;
+}
+.girl{
+    margin-left: 400px;
+    border-radius: 50px;
+}
+.client{
+    color: white;
+    width: 300px;
+    float: right;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 20px;
+}
+.green{
+    color: white;
+    width: 100px;
+    font-size: 15px;
+    text-align: left;
+    margin-left: 480px;
+    }
+     .main4{
+        background-color: blue;
+        display: flex;
+        justify-content: flex-start;
+        margin-top: -300px;
+    }
+    .boy{
+        border-radius: 50px;
+        margin-left: -400px;
+        margin-top: -10px;
+    }
+    .client1{
+        color: white;
+        width: 290px;
+        font-size: 20px;
+        text-align: left;
+        margin-left: 80px;
+        margin-top: -40px;
+    }
+    .green1{
+        color: white;
+        width: 100px;
+        font-size: 15px;
+        text-align: left;
+        margin-left: 80px;
+    
+     }
+     .main5{
+           display: flex; 
+           background-color: rgb(235, 238, 247); 
+          height: 900px; 
+          width: 1280px;
+        }
+
+        .h5{
+            font-size: 40px;
+            width: 400px;
+            height: 60px;
+            margin-left: 150px;
+            
+        }
+        .Ques{
+            text-justify: auto; 
+            width: 300px;
+            height: 200px;
+            font-size: 25px;
+            background-color: rgb(219, 210, 198);
+            margin-top: 100px;
+            margin-left: 200px;
+            color:rgb(29, 126, 156);
+        }
+          .table{
+             width: 400px;
+            margin-top: 150px;
+            margin-left: -900px;
+        }
+         .h3{
+            width:400px;
+            font-size: 20px;
+            word-spacing: 70px;
+            line-height: 20px;
+            
+        } 
+        .re{
+            width: 300px;
+            font-size: 15px;
+           margin-left: 27px;
+            word-spacing: 70px;
+        }  
+         .rb{
+            font-size:20px;
+            width: 300px;
+            font-size: 15px;
+           margin-left: 27px;
+            word-spacing: 70px;
+        } 
+        .main6{
+            display: flex;
+            justify-content: center;
+             width: 1280px;
+             height: 500px; 
+            margin-top: 95px;
+            position: relative;
+            margin-left: -150px;
+            
+        }
+        .hA{
+             position: absolute;
+             text-align: center;
+             color: white;
+        }
+        .email{
+            position: absolute;
+            text-align: center;
+            width: 250px;
+            height: 50px;
+            border-radius: 50px;
+            border: solid rgb(194, 194, 240);
+            background-color:transparent;
+            font-size: 20px;
+            color: white;
+            margin-top: 200px;
+            margin-left: -190px;
+        }
+        .BT{
+            position: absolute;
+            border:  solid rgb(191, 230, 238);
+            background-color: rgb(21, 184, 212);
+            width: 150px;
+            height: 50px;
+            margin-top: 200px;
+             margin-left: 300px; 
+            border-radius: 30px;
+            font-size: medium;
+            color: white; 
+        }
+        .futer{
+            display: flex;
+            background-color: blueviolet;
+            width: 1280px;
+            height: 250px;
+            margin-left: -150px;
+        
+        }
+        
+        .li{
+            list-style: none;
+             display: inline; 
+             flex-direction: row;
+             text-decoration: none;
+            font-size: 20px;
+             margin-left: 20px; 
+           
+        }
+        .ul1{
+             margin-left: -300px;
+             font-family: 10px;
+             margin-top: -40px;
+        
+        }
+        .logo1{
+            width: 50px;
+            height: 50px;
+            border-radius: 90px;
+             margin-left: 600px;
+             margin-top: 50px; 
+            
+            
+        }
+        .class{
+            font-size: 15px;
+            text-align: center;
+             margin-left: 850px;
+            
+        }
+        .fond{
+            margin-right: -300px;
+            text-align: right;
+            margin-top: -60px;
+            font-size: medium;
+        }
+       
+        @media only screen and (max-width: 1082px)
+        {
+         .nav ul{
+            display: flex;
+         }
+           .cards
+           {
+            display: flex;
+            flex-direction: column;
+            width: 350px;
+            text-align: center;
+            margin-left: 50px;
+           } 
+        

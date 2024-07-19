@@ -1,0 +1,13 @@
+table{
+    
+    width: 5px;
+    text-align: center;
+}
+
+
+table, th,td{
+    border: 3px groove rgb(98, 98, 225);
+    border-spacing: 10px ;
+
+}
+    
